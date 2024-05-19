@@ -1,0 +1,45 @@
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\bin\Debug\net6.0\Projekt.exe
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\bin\Debug\net6.0\Projekt.dll
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\Projekt.dll
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Łukasz\Desktop\infa sem3\Projekt\Projekt\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Łukasz\Desktop\Projekt\Projekt\bin\Debug\net6.0\Projekt.exe
+C:\Users\Łukasz\Desktop\Projekt\Projekt\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Łukasz\Desktop\Projekt\Projekt\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Łukasz\Desktop\Projekt\Projekt\bin\Debug\net6.0\Projekt.dll
+C:\Users\Łukasz\Desktop\Projekt\Projekt\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\Projekt.dll
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Łukasz\Desktop\Projekt\Projekt\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\bin\Debug\net6.0\Projekt.exe
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\bin\Debug\net6.0\Projekt.dll
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\Projekt.dll
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Łukasz\Desktop\byłontwk\Projekt\Projekt\obj\Debug\net6.0\ref\Projekt.dll
